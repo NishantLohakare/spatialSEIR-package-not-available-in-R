@@ -31,7 +31,7 @@ r-base-core
 r-base-dev
 If you have administrator access, these can be installed by running:
 
-sudo apt-get install git cmake libboost-dev libboost-random-dev r-base-core r-base-dev      .......all in one line
+sudo apt-get install git cmake libboost-dev libboost-random-dev r-base-core r-base-dev      
 
 Next, you'll need to install the Rcpp R package. From the command line you can start R and install the package in the usual way:
 
