@@ -4,12 +4,12 @@ Info-on-R-packages-for-EBOLA-grantbrown-
 Those who are having problems on installing packages in R regarding EBOLA (grantbrown) may get some help from here.
 
 
-For Parallel Package -->>>>>>>>>
+1) For Parallel Package -->>>>>>>>>
 ==>> In R type 
      require(parallel)      .......as parallel package is part of R Distribution
 
 
-For XML Package -->>>>>>>>>>>
+2) For XML Package -->>>>>>>>>>>
 To install curl and xml on ubuntu. 
 
 Run on Terminal
@@ -19,7 +19,7 @@ sudo apt-get install libxml2-dev
 The error messages on package install in R indicate that the curl and xml libraries are not present or cannot be found.
 
 
-For SpatialSEIR Package -->>>>>>>>>
+3) For SpatialSEIR Package -->>>>>>>>>
 Source:   https://github.com/grantbrown/libspatialSEIR/wiki/installation
 
 The following packages are required:
