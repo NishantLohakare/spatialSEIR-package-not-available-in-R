@@ -43,7 +43,7 @@ Change to the directory you'd like to create the libSpatialSEIR project folder i
 
 git clone https://github.com/grantbrown/libspatialSEIR.git --recursive
 cd libspatialSEIR/R/release_package
-./install.sh   
+./install.sh
  
 
 
