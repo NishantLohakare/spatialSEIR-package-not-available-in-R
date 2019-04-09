@@ -36,7 +36,7 @@ sudo apt-get install git cmake libboost-dev libboost-random-dev r-base-core r-ba
 Next, you'll need to install the Rcpp R package. From the command line you can start R and install the package in the usual way:
 
 R
->install.packages("Rcpp")
+>install.packages("Rcpp")  
 
 Then you're ready to clone a copy of the libSpatialSEIR repository and install the associated R package. 
 Change to the directory you'd like to create the libSpatialSEIR project folder in and type:
